@@ -14,7 +14,7 @@
   
   ## Installation
   
-  read the instruction, started my index.js then added the necessary commands in order to my project work appropiatly.
+  read the instruction, started my index.js then added the necessary commands so my project work appropiatly.
   
   ## Usage
   
